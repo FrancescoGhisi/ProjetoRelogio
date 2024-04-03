@@ -1,7 +1,7 @@
 package model;
 
 public class Tempo {
-    private int horas;
+    private int hora;
     private int minuto;
     private int segundo;
     
